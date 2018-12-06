@@ -34,13 +34,23 @@
   text-align: center;
   font-size: 5vw;
   font-family: 'Pacifico', cursive;
-  margin-top: 25%;
+  margin-top: 20%;
 }
 
 .songlist {
   height: 100%;
-  padding-top: 5%;
   padding-left: 30%;
   font-family: 'Noto Sans SC', sans-serif;
 
+}
+
+.album {
+  height: 100%;
+  width: 100%;
+}
+
+.songLeft{
+  height: 100%;
+  padding-left: 30%;
+  font-family: 'Noto Sans SC', sans-serif;
 }

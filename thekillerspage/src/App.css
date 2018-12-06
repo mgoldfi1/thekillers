@@ -38,6 +38,7 @@
 }
 
 .songlist {
+  padding-top: 5%;
   height: 100%;
   padding-left: 30%;
   font-family: 'Noto Sans SC', sans-serif;
@@ -52,5 +53,6 @@
 .songLeft{
   height: 100%;
   padding-left: 30%;
+  padding-top: 5%;
   font-family: 'Noto Sans SC', sans-serif;
 }
